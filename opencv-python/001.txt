@@ -1,0 +1,52 @@
+opencv-Python :
+            OpenCV is a cross-platform library using which we can develop real-time computer vision applications.
+It mainly focuses on image processing, video capture and analysis including features like face detection and object detection.
+
+-> OpenCV 1.00 released in 2006.
+
+Computer vision :
+    Image Processing − It focuses on image manipulation.
+
+    Pattern Recognition − It explains various techniques to classify patterns.
+
+    Photogrammetry − It is concerned with obtaining accurate measurements from images.
+
+Applications :
+
+    Robotics Application: 
+        Localization − Determine robot location automatically
+        Navigation
+        Obstacles avoidance
+        Assembly (peg-in-hole, welding, painting)
+        Manipulation (e.g. PUMA robot manipulator)
+        Human Robot Interaction (HRI) − Intelligent robotics to interact with and serve people
+
+    Medicine Application :
+        Classification and detection (e.g. lesion or cells classification and tumor detection)
+        2D/3D segmentation
+        3D human organ reconstruction (MRI or ultrasound)
+        Vision-guided robotics surgery
+
+    Industrial Automation Application:
+        Industrial inspection (defect detection)
+        Assembly
+        Barcode and package label reading
+        Object sorting
+        Document understanding (e.g. OCR)
+
+    Security Application:
+        Biometrics (iris, finger print, face recognition)
+        Surveillance − Detecting certain suspicious activities or behaviors
+
+    Transportation Application:
+        Autonomous vehicle
+        Safety, e.g., driver vigilance monitoring
+        Features of OpenCV Library
+
+    Other applications :
+        Read and write images
+        Capture and save videos
+        Process images (filter, transform)
+        Perform feature detection
+        Detect specific objects such as faces, eyes, cars, in the videos or images.
+        Analyze the video, i.e., estimate the motion in it, subtract the background, and track objects in it.

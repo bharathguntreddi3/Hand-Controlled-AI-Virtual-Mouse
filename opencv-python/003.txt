@@ -1,0 +1,4 @@
+cv2.imread(filename[,flag])    # load image
+
+cv2.imwrite(filename, img[,params])    # save image
+

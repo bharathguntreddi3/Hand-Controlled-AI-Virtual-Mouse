@@ -1,0 +1,28 @@
+Two main tasks performed:
+Object Classification - In the object classification, we train a model on a dataset of particular objects, and the model classifies new objects as belonging to one or more of your training categories.
+Object Identification - In the object identification, our model will identify a particular instance of an object - for example, parsing two faces in an image and tagging one as Virat Kohli and other one as Rohit Sharma.
+
+Working of OpenCV
+->  Human eyes provide lots of information based on what they see. Machines are facilitated with seeing everything, convert the vision into numbers and store in the memory. 
+    Here the question arises how computer convert images into numbers. So the answer is that the pixel value is used to convert images into numbers. 
+    A pixel is the smallest unit of a digital image or graphics that can be displayed and represented on a digital display device.
+    The picture intensity at the particular location is represented by the numbers. In the above image, we have shown the pixel values for a grayscale image consist of only one value, 
+    the intensity of the black color at that location.
+
+Grayscale :
+    Grayscale images are those images which contain only two colors black and white. The contrast measurement of intensity is black treated as the weakest intensity, and white as the strongest intensity. 
+When we use the grayscale image, the computer assigns each pixel value based on its level of darkness.
+
+RGB :
+    An RGB is a combination of the red, green, blue color which together makes a new color. The computer retrieves that value from each pixel and puts the results in an array to be interpreted.
+
+Installation :  pip install opencv-python
+
+Creating virtual environment :
+1. pip3 install virtualenv and virtualenv virtualenvwrapper  
+2. #virtualenv/VirtualenvWrapper  
+   VIRTUALENVWRAPPER_PYTHON ='/user/local/bin/python3'  
+   Source/user/local/bin/virtualenvwrapper.sh  
+   export WORKON_HOME = $HOME/.virtualenvs  
+3.mkvirtualenv cv3 -p python3  
+4.workon cv3  

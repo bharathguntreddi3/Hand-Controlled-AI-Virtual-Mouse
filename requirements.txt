@@ -1,6 +1,6 @@
-cv2
+opencv-python
 numpy
 matplotlib
 mediapipe
 pyautogui
-PIL
+pillow

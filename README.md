@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/95229816/185941431-83ba8fc6-0863-4a9b-a8ef-9908a29bd9ba.png">
 
 <u><h2>The mouse is the one of the wonderfull inventions of the Human Computer Interaction(HCI) Technology.</h2></u>
-<h3>Currently we are using wired or may be wireless mouses,In real time cases some computers may not support for a physical mouse or may some users may be dealth with some hand problems or handicap and cannot use physical mouse, so this Hand controlled AI Virtual Mouse can be used to overcome this problem. Making a user to control the mouse by reducing the computer human interaction.</h3>
+<h3>Currently we are using wired or may be wireless mouses,In real time cases some computers may not support for a physical mouse or may some users may cannot use physical mouse, so this Hand controlled AI Virtual Mouse can be used to overcome this problem. Making a user to control the mouse by reducing the computer human interaction.</h3>
 
 <h1>FUNCTIONALITIES:</h1>
 <h4> -> This was built using the openCV-python and mediapipe for Detecting and processing the image and mediapipe an open source cross-platform developed by google for media processing and ready-to-use ML solutions for computer vision tasks.</h4>
